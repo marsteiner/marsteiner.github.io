@@ -15,4 +15,4 @@ Einst war Inspektor Gadget ein gewöhnlicher Dorfpolizist, doch nach einer Opera
 
 > Go go Gadgeto ... irgendwas...!
 
-<img src="/>https://www.google.com/search?q=inspector+gadget&client=firefox-b-m&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjy3fH286TqAhUJYcAKHdeoCw8Q_AUIBygC&biw=870&bih=1034#"/>
+<img src="https://pixy.org/download/4629181"/>
