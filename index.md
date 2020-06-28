@@ -14,3 +14,5 @@ Einst war Inspektor Gadget ein gewöhnlicher Dorfpolizist, doch nach einer Opera
 * Weltvergessen
 
 > Go go Gadgeto ... irgendwas...!
+
+<img src="/>https://www.google.com/search?q=inspector+gadget&client=firefox-b-m&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjy3fH286TqAhUJYcAKHdeoCw8Q_AUIBygC&biw=870&bih=1034#"/>
