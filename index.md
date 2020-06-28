@@ -12,3 +12,5 @@ Einst war Inspektor Gadget ein gewöhnlicher Dorfpolizist, doch nach einer Opera
 * Geistesabwesend
 * Unbeholfen
 * Weltvergessen
+
+> Go go Gadgeto ... irgendwas...!
