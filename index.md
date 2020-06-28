@@ -14,3 +14,5 @@ Einst war Inspektor Gadget ein gewöhnlicher Dorfpolizist, doch nach einer Opera
 * Weltvergessen
 
 > Go go Gadgeto ... irgendwas...!
+
+<img src="https://pixy.org/download/4629181"/>
